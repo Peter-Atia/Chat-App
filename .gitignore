@@ -6,7 +6,7 @@
 *.swp
 .buildlog/
 .history
-firebase_options.dart
+lib\firebase_options.dart
 
 
 # Flutter repo-specific
